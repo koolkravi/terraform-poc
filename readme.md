@@ -1,7 +1,18 @@
-# Index 
+# Terraform POC  
 
-## 1. quickstart-run-nginx
+## Pre-requisite
 
+ - (Install Terraform)[https://learn.hashicorp.com/tutorials/terraform/install-cli]
+ ```
+   choco install terraform 
+   terraform -help  				// Verify the installation
+   terraform -install-autocomplete  // Enable tab completion
+   
+ ```
+ 
+## Table Of content 
+ 
+## 1. (quickstart-run-nginx)[https://github.com/koolkravi/terraform-poc/tree/master/quickstart-run-nginx]
 
 
 
